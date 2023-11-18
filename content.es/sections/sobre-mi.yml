@@ -1,0 +1,46 @@
+title: Sobre mi
+subtitle: Beatriz López
+icon: circle-info
+color: main-light
+gradient: alt-light
+rows:
+- type: columns
+  design:
+    num: 4
+    underline: true
+    align: left
+    align_y: center
+  items:
+  - image: sobremibea.png
+  - span: 2
+    description: |-
+      **¡Hola, soy Beatriz López!**
+
+      Fisioterapeuta y osteópata comprometida con mi trabajo.
+
+      Mi objetivo es ser tu compañera en el viaje hacia una vida saludable y libre de limitaciones.
+
+      Con una sólida formación en fisioterapia, estoy lista para ofrecerte un tratamiento completo y efectivo.
+
+      Realicé prácticas en el Hospital Clínico Universitario Virgen de la Arrixaca, donde me especialicé en fisioterapia respiratoria, neurológica, traumatológica y unidad de cáncer de mama, así como en clínicas privadas donde adquirí experiencia con pacientes adultos y pediátricos.
+
+      Así mismo, mi búsqueda constante de conocimiento me ha llevado a obtener formaciones complementarias, realizando cursos como fisioterapia respiratoria pediátrica, punción seca y electropunción y fibrolisis instrumental, además de un máster de dos años en osteopatía estructural de la EOM.
+
+      Actualmente, me encuentro inmersa en un máster de 3 años en osteopatía visceral y craneal de la EOM.
+- type: columns
+  design:
+    underline: true
+    align_y: top
+    align: left
+  items:
+  - title: Mi enfoque
+    description: |
+      Mi pasión radica en brindarte respuestas claras y soluciones efectivas para tus dolencias. \
+      Mi especialidad abarca el tratamiento de dolores de espalda, fisioterapia pediátrica y el manejo de patologías neuro-músculo-esqueléticas. \
+      Utilizo técnicas manuales, osteopáticas y de fisioterapia invasiva, diseñadas para minimizar el dolor y maximizar la efectividad del tratamiento.
+  - title: Tu mejora es mi prioridad
+    description: |
+      Enfoco cada tratamiento en ti, adaptándolo a tus necesidades individuales, para ofrecerte una atención de calidad. \
+      Mi objetivo principal es ayudarte a recuperar tu bienestar físico y emocional. \
+      Estoy aquí para ser tu aliada en este camino hacia una mayor calidad de vida. \
+      ¡Espero conocerte pronto y poder ayudarte a mejorar cualquier dolencia que te limite en tu día a día!

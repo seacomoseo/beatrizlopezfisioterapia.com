@@ -1,0 +1,30 @@
+title: ¿Por qué nosotros?
+subtitle: ¿Qué nos hace especiales?
+icon: sparkles
+color: main-light
+gradient: alt-light
+description: En nuestra clínica nos esforzamos al máximo para mejorar tu calidad de vida. Sabemos que cualquier dolor que limite tus actividades diarias merece la atención necesaria y no debe pasar desapercibido.
+more:
+  align: center
+  underline: true
+rows:
+- type: steps
+  design:
+    border: link
+    underline: true
+  items:
+  - title: Trato Personal y Empático
+    icon: heart-pulse
+    description: En cada sesión nos ponemos en tu lugar. Entendemos tus necesidades y preocupaciones y trabajamos juntos para encontrar la mejor solución.
+  - title: Entendemos el Dolor
+    icon: bandage
+    description: Te explicamos el origen de tu dolor y cómo se relaciona con sus consecuencias. Queremos que comprendas tu cuerpo y tu salud tanto como nosotros.
+  - title: Transparencia en el Tratamiento
+    icon: hand-holding-medical
+    description: Te contamos todo sobre las herramientas que utilizamos en cada tratamiento. Queremos que te sientas informado durante cada paso de tu recuperación.
+  - title: Más que Consultas
+    icon: people-robbery
+    description: No nos limitamos a las sesiones en la clínica. Te proporcionamos consejos y recomendaciones que puedes seguir, tanto dentro como fuera de la consulta, para acelerar tu recuperación y mejorar tu bienestar.
+  - description: Nos especializamos en el tratamiento de todo tipo de patologías. Sea cual sea tu problema, estamos aquí para ayudarte a superarlo.
+    title: Tratamiento Integral
+    icon: book-open-cover

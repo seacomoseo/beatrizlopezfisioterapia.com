@@ -1,0 +1,40 @@
+title: Servicios
+subtitle: A medida
+icon: users-medical
+bg: masaje4-1-.jpg
+color: main-dark
+size: md
+more:
+  opacity: 40
+rows:
+- type: columns
+  design:
+    color: white
+    num: 3
+    grayscale: true
+    ratio: 16x9
+    underline: true
+    card: true
+    image: fondo.jpg
+  items:
+  - title: Osteopatía
+    description: Técnicas destinadas al tratamiento de patologías osteoarticulares, corrigiendo disfunciones y mejorando la funcionalidad
+    image: osteopatia.jpg
+  - title: Radiofrecuencia Médica
+    image: radiofrec.jpg
+    description: Con la radiofrecuencia aceleramos el metabolismo de las células, lo que promueve la regeneración de los tejidos
+  - title: Punción Seca
+    description: Esta técnica se basa en el uso de agujas para aliviar la tensión del tejido y liberar puntos gatillo miofasciales para restaurar su función.
+    image: puncion1-1-.jpg
+  - title: Fisioterapia Pediátrica
+    image: pediatrica.jpg
+    description: Tratamos y rehabilitamos, a nivel motor y respiratorio, con técnicas y ejercicios adaptados a las necesidades de los más pequeños para promover su desarrollo y calidad de vida.
+  - title: Terapia Manual
+    description: Mediante técnicas manuales específicas tratamos disfunciones neuro-músculo-esqueléticas con el objetivo de disminuir el dolor y restaurar la movilidad
+    image: masaje4-1-.jpg
+  - title: Fisioterapia Dermatofuncional
+    image: facial.jpg
+    description: 'Nos enfocamos en las patologías dérmicas: cicatrices, celulitis, lipedemas, postoperatorios y disfunciones del sistema tegumentario en general, que otras áreas no llegan a abarcar.'
+  - title: Ejercicio Terapéutico
+    image: ejercicio-terap.jpg
+    description: Realizamos ejercicios específicos adaptados para mejorar la función física y tratar afecciones musculoesqueléticas. Estos serán parte de la rehabilitación para promover y acelerar la recuperación del paciente.

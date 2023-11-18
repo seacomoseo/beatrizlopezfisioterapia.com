@@ -1,0 +1,21 @@
+anchor: Clínica de Fisioterapia y Osteopatía en San Pedro del Pinatar, Murcia
+image: icon.svg
+bg: beamasaje-1-2-.jpg
+color: main-dark
+gradient: main-dark
+description: |
+  Fisioterapia y Osteopatía <br> Beatriz López
+  {.h1}
+
+  Tu bienestar, nuestra prioridad
+  {.subtitle}
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 20
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  uppercase: false

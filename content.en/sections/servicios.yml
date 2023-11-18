@@ -1,0 +1,40 @@
+title: Services
+subtitle: Tailor-made
+icon: users-medical
+bg: masaje4-1-.jpg
+color: main-dark
+size: md
+more:
+  opacity: 40
+rows:
+- type: columns
+  design:
+    color: white
+    num: 3
+    grayscale: true
+    ratio: 16x9
+    underline: true
+    card: true
+    image: fondo.jpg
+  items:
+  - title: Osteopathy
+    description: Techniques for the treatment of osteoarticular pathologies, correcting dysfunctions and improving functionality.
+    image: osteopatia.jpg
+  - title: Medical Radiofrequency
+    image: radiofrec.jpg
+    description: With radiofrequency we accelerate the metabolism of the cells, which promotes tissue regeneration.
+  - title: Dry needling
+    description: This technique is based on the use of needles to relieve tissue tension and release myofascial trigger points to restore their function.
+    image: puncion1-1-.jpg
+  - title: Pediatric Physical Therapy
+    image: pediatrica.jpg
+    description: We treat and rehabilitate, at a motor and respiratory level, with techniques and exercises adapted to the needs of children to promote their development and quality of life.
+  - title: Manual Therapy
+    description: Through specific manual techniques we treat neuro-musculo-skeletal dysfunctions with the aim of reducing pain and restoring mobility.
+    image: masaje4-1-.jpg
+  - title: Dermatofunctional Physiotherapy
+    image: facial.jpg
+    description: 'We focus on dermal pathologies: scars, cellulite, lipedema, postoperative and dysfunctions of the integumentary system in general, that other areas do not cover.'
+  - title: Therapeutic Exercise
+    image: ejercicio-terap.jpg
+    description: We perform specific exercises tailored to improve physical function and treat musculoskeletal conditions. These will be part of the rehabilitation to promote and accelerate the patient's recovery.

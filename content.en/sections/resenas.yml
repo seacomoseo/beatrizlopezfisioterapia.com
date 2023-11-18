@@ -1,0 +1,55 @@
+title: Reviews
+subtitle: What do they say about us?
+icon: comment
+bg: masaje1-1-.jpg
+color: main-dark
+more:
+  opacity: 40
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Laura S.
+    description: |
+      I am delighted with Bea's professionalism. She treats me every month for more than a year for my back problems and thanks to her my dizziness and pains are gone.
+
+      Without a doubt my favorite physio.
+  - title: Montserrat F.
+    description: |
+      I met Bea in one of the worst moments of my life.
+
+      I had a very intense lumbosciatica and thanks to her hands, her treatments and all the explanations she gave me (home exercises, postures) I was able to recover.
+
+      Since then I have been with her for two years and I go every month.
+
+      She is my best medicine 😀❤️
+  - title: Marina E.
+    description: |
+      A physiotherapy session with Bea is not just a session to treat a problem.
+
+      It is an experience in which, apart from leaving renewed and with clear signs of improvement from the first session, you will leave knowing what problem you have and how to solve it and knowing much more about your body and your organism.
+
+      Bea is a person one hundred percent dedicated to her patients and committed to her work.
+
+      You are not left blind during the treatment but she answers all your doubts in a way that anyone can understand.
+
+      Her passion for health and physiotherapy is noticeable at every moment and makes you feel much more than just another client.
+
+      With her you are, without a doubt, in the best hands.
+
+      My trusted physiotherapist.
+  - title: Javier E.
+    description: |
+      Great professional, after treatments with other professionals without finding a noticeable improvement for my cervical problem, I can say that I have been lucky to find Beatriz.
+
+      With just a few sessions I have felt such an improvement that I have put aside my idea of going under the knife.
+- type: columns
+  items:
+  - description: |
+      There are more here! Add yours!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQqJChX6o2vsEAI/review "noindex")

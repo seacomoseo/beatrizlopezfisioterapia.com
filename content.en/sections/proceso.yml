@@ -1,0 +1,30 @@
+title: Why us?
+subtitle: What makes us special?
+icon: sparkles
+color: main-light
+gradient: alt-light
+description: In our clinic we do our best to improve your quality of life. We know that any pain that limits your daily activities deserves the necessary attention and should not go unnoticed.
+more:
+  align: center
+  underline: true
+rows:
+- type: steps
+  design:
+    border: link
+    underline: true
+  items:
+  - title: Personal and empathic treatment
+    icon: heart-pulse
+    description: In each session we put ourselves in your shoes. We understand your needs and concerns and work together to find the best solution.
+  - title: We understand pain
+    icon: bandage
+    description: We explain the origin of your pain and how it relates to its consequences. We want you to understand your body and your health as much as we do.
+  - title: Transparency in Treatment
+    icon: hand-holding-medical
+    description: We tell you everything about the tools we use in each treatment. We want you to feel informed during every step of your recovery.
+  - title: More than Consultations
+    icon: people-robbery
+    description: We don't limit ourselves to in-clinic sessions. We provide you with advice and recommendations that you can follow, both in and out of the office, to speed up your recovery and improve your well-being.
+  - description: We specialize in the treatment of all types of pathologies. Whatever your problem is, we are here to help you overcome it.
+    title: Integral Treatment
+    icon: book-open-cover

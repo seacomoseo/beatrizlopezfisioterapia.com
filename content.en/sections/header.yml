@@ -1,0 +1,21 @@
+anchor: Physiotherapy and Osteopathy Clinic in San Pedro del Pinatar, Murcia
+image: icon.svg
+bg: beamasaje-1-2-.jpg
+color: main-dark
+gradient: main-dark
+description: |
+  Physiotherapy and Osteopathy <br> Beatriz López
+  {.h1}
+
+  Your well-being is our priority
+  {.subtitle}
+
+  [btn icon-plus Further](#main)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 20
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  uppercase: false

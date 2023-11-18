@@ -1,0 +1,55 @@
+title: Reseñas
+subtitle: ¿Qué dicen de nosotros?
+icon: comment
+bg: masaje1-1-.jpg
+color: main-dark
+more:
+  opacity: 40
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Laura S.
+    description: |
+      Encantada con la profesionalidad de Bea. Me trata todos los meses desde hace más de un año por mis problemas de espalda y gracias a ella se me han ido los vértigos y los dolores.
+
+      Sin duda mi fisio favorita.
+  - title: Montserrat F.
+    description: |
+      Conocí a Bea en unos de los momentos peores de mi vida.
+
+      Padecía una lumbo ciática muy intensa y gracias a sus manos, sus tratamientos y todas las explicaciones que me daba (ejercicios para casa, posturas) pude recuperarme.
+
+      Desde entonces llevo dos años con ella y voy todos los meses.
+
+      Es mi mejor medicina 😀❤️
+  - title: Marina E.
+    description: |
+      Una sesión de fisioterapia con Bea no es solo una sesión para tratar un problema.
+
+      Es una experiencia en la que, a parte de salir renovado y con claros signos de mejora desde la primera sesión, te irás sabiendo qué problema tienes y cómo solucionarlo y conociendo mucho más sobre tu cuerpo y tu organismo.
+
+      Bea es una persona cien por cien entregada a sus pacientes y comprometida con su trabajo.
+
+      No te quedas a ciegas durante el tratamiento sino que responde todas las dudas de manera que cualquiera pueda entenderlas.
+
+      Su pasión por la salud y la fisioterapia se hacen notar en cada momento y te hace sentir mucho más que un cliente cualquiera.
+
+      Con ella estás, sin duda, en las mejores manos.
+
+      Mi fisio de confianza.
+  - title: Javier E.
+    description: |
+      Gran profesional, después de tratamientos con otros profesionales sin encontrar una mejoría notable para mi problema de cervicales, puedo decir que he tenido la suerte de dar con Beatriz.
+
+      Con pocas sesiones he sentido tal mejoría que he dejado a un lado mi idea de pasar por el quirófano.
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQqJChX6o2vsEAI/review "noindex")

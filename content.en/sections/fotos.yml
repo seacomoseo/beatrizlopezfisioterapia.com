@@ -1,0 +1,30 @@
+title: Gallery
+subtitle: ''
+icon: camera-retro
+color: main-dark
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    grayscale: false
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    # button: hide
+  images:
+  - ventosa2-1-.jpg
+  - beamasaje-1-2-.jpg
+  - galeria1.jpg
+  - maquina1-1-.jpg
+  - puncion1-1-.jpg
+  - galeria.jpg
+  - galeria3.jpg
+  - ventosa-1-1-.jpg
+  - masaje1-1-.jpg
+  - galeria4.jpg
+  - puncion2-1-.jpg
+  - masaje4-1-.jpg
+  - maquina2-1-.jpg
+  - productos-1-.jpg

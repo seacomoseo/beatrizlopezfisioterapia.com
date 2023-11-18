@@ -1,0 +1,55 @@
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+button: link
+icon: paper-plane
+color: main-light
+gradient: alt-light
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes
+    hours: 9:15 a 14:00
+  - type: schedule
+    days: Martes y Jueves
+    hours: 9:15 a 14:00 y 16:15 a 21:00
+  - type: schedule
+    days: Viernes
+    hours: 9:15 a 14:00 y 16:15 a 20:00
+  - type: br
+  - type: phone
+    label: 633 39 67 33
+  - type: whatsapp
+    label: 633 39 67 33
+    button: link
+    full: false
+  - type: mail
+    label: beatriz_416@hotmail.com
+    full: true
+  - addressCountry: España
+    active: true
+    addressRegion: Murcia
+    type: address
+    name: Fisioterapia y Osteopatía Beatriz López
+    streetAddress: Calle Dr. Daciano de los Ríos, s/n
+    addressLocality: San Pedro del Pinatar
+    postalCode: 30740
+    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: tel
+      name: Teléfono
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CQqJChX6o2vsEAI

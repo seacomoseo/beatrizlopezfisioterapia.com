@@ -1,0 +1,46 @@
+title: About me
+subtitle: Beatriz López
+icon: circle-info
+color: main-light
+gradient: alt-light
+rows:
+- type: columns
+  design:
+    num: 4
+    underline: true
+    align: left
+    align_y: center
+  items:
+  - image: sobremibea.png
+  - span: 2
+    description: |-
+      **Hello, I'm Beatriz López!**
+
+      Physiotherapist and osteopath committed to my work.
+
+      My goal is to be your partner in the journey to a healthy life free of limitations.
+
+      With a solid background in physiotherapy, I am ready to offer you a complete and effective treatment.
+
+      I did my internship at the Hospital Clínico Universitario Virgen de la Arrixaca, where I specialized in respiratory, neurological, traumatological and breast cancer unit physiotherapy, as well as in private clinics where I gained experience with adult and pediatric patients.
+
+      Likewise, my constant search for knowledge has led me to obtain complementary training, taking courses such as pediatric respiratory physiotherapy, dry needling and electro-puncture and instrumental fibrolysis, as well as a two-year master's degree in structural osteopathy from the EOM.
+
+      Currently, I am immersed in a 3-year master's degree in visceral and cranial osteopathy from the EOM.
+- type: columns
+  design:
+    underline: true
+    align_y: top
+    align: left
+  items:
+  - title: My focus
+    description: |
+      My passion lies in providing you with clear answers and effective solutions for your ailments. \
+      My specialties include the treatment of back pain, pediatric physical therapy and the management of neuro-musculoskeletal pathologies. \
+      I use manual, osteopathic and invasive physical therapy techniques designed to minimize pain and maximize treatment effectiveness.
+  - title: Your improvement is my priority
+    description: |
+      I focus each treatment on you, adapting it to your individual needs and to offer you quality care. \
+      My main goal is to help you regain your physical and emotional well-being. \
+      I am here to be your guide on your path to a better quality of life. \
+      I hope to meet you soon and to be able to help you improve any ailment that limits you in your day to day life!
