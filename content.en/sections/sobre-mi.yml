@@ -13,7 +13,7 @@ rows:
   items:
   - image: sobremibea.png
   - span: 2
-    description: |-
+    description: |
       **Hello, I'm Beatriz López!**
 
       Physiotherapist and osteopath committed to my work.
