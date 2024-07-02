@@ -29,8 +29,7 @@ rows:
   - type: mail
     label: beatriz_416@hotmail.com
     full: true
-  - 
-    active: true
+  - active: true
     type: address
     name: Fisioterapia y Osteopatía Beatriz López
     streetAddress: Av. Dr. Artero Guirao, 180
@@ -38,7 +37,7 @@ rows:
     addressLocality: San Pedro del Pinatar
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[-0.7944091,37.8334147]}'
   form:
     fill_inputs: true
     items:
