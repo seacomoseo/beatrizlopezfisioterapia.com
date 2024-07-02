@@ -29,14 +29,15 @@ rows:
   - type: mail
     label: beatriz_416@hotmail.com
     full: true
-  - addressCountry: España
+  - 
     active: true
-    addressRegion: Murcia
     type: address
     name: Fisioterapia y Osteopatía Beatriz López
-    streetAddress: Calle Dr. Daciano de los Ríos, s/n
+    streetAddress: Av. Dr. Artero Guirao, 180
+    postalCode: '30740'
     addressLocality: San Pedro del Pinatar
-    postalCode: 30740
+    addressRegion: Murcia
+    addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   form:
     fill_inputs: true

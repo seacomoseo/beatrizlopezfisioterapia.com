@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1gkWL1rcVDY2jzN3BM0OuowmNw0W8nb6v
   drive_mails: beatriz_416@hotmail.com
 defaultContentLanguage: es
-disableLanguages: []
+disableLanguages: [fr]
 languages:
   es:
     paginatePath: pagina
