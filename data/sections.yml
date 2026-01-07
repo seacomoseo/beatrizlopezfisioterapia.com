@@ -2,7 +2,6 @@ general:
   image_max: null
   icon_type: ''
   size: ''
-  container: ''
   image_align: ''
   color: light
   bg: ''

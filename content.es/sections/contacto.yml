@@ -1,6 +1,6 @@
 id: contacto
-title: Contacto
 anchor: 'Contacto: Clínica de Fisios y Oteópatas cerca de mi ubicación'
+title: Contacto
 subtitle: ¿En qué podemos ayudarte?
 button: link
 icon: paper-plane
@@ -36,7 +36,7 @@ rows:
     button: link
     full: false
   - type: mail
-    label: beatriz_416@hotmail.com
+    label: info@beatrizlopezfisioterapia.com
     full: true
   - active: true
     type: address
@@ -47,7 +47,6 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-0.7944091,37.8334147]}'
-    button: ''
   form:
     fill_inputs: true
     items:

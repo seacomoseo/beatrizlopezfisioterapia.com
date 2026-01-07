@@ -4,8 +4,6 @@ title_seo: Fisioterapia y Osteopatía Beatriz López [San Pedro del Pinatar]
 slug: inicio
 description: llll➤ Clínica de Fisioterapia y Osteopatía en San Pedro del Pinatar, Murcia ✅ ¡Pide cita!
 image: icon.png
-draft: false
-noindex: false
 translationKey: home
 sections:
 - file: header

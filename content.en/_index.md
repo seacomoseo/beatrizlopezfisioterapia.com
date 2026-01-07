@@ -4,8 +4,6 @@ title_seo: Physiotherapy and Osteopathy Beatriz López [San Pedro del Pinatar]
 slug: home
 description: llll➤ Physiotherapy and Osteopathy Clinic in San Pedro del Pinatar, Murcia ✅ Make an appointment!
 image: icon.png
-draft: false
-noindex: false
 translationKey: home
 sections:
 - file: header

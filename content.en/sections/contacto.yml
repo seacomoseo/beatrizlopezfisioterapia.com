@@ -12,13 +12,22 @@ rows:
   data:
   - type: schedule
     days: Monday
-    hours: 9:15 a 14:00
+    hours: 9:15 to 14:00
   - type: schedule
-    days: Tuesday and Thursday
-    hours: 9:15 a 14:00 y 16:15 a 21:00
+    days: Tuesday
+    hours: 9:15 to 14:00 and 16:15 to 21:00
+  - type: schedule
+    days: Wednesday
+    hours: 16:15 to 21:00
+  - type: schedule
+    days: Thursday
+    hours: 9:15 to 14:00
   - type: schedule
     days: Friday
-    hours: 9:15 a 14:00 y 16:15 a 20:00
+    hours: 9:15 to 14:00 and 16:15 to 20:00
+  - type: schedule
+    days: Saturday and Sunday
+    hours: Closed
   - type: br
   - type: phone
     label: 633 39 67 33
@@ -27,16 +36,16 @@ rows:
     button: link
     full: false
   - type: mail
-    label: beatriz_416@hotmail.com
+    label: info@beatrizlopezfisioterapia.com
     full: true
-  - addressCountry: Spain
-    active: true
-    addressRegion: Murcia
+  - active: true
     type: address
     name: Fisioterapia y Osteopatía Beatriz López
     streetAddress: Calle Dr. Daciano de los Ríos, s/n
-    addressLocality: San Pedro del Pinatar
     postalCode: 30740
+    addressLocality: San Pedro del Pinatar
+    addressRegion: Murcia
+    addressCountry: Spain
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   form:
     fill_inputs: true

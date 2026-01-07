@@ -25,6 +25,6 @@ rows:
   - title: Más que Consultas
     icon: people-robbery
     description: No nos limitamos a las sesiones en la clínica. Te proporcionamos consejos y recomendaciones que puedes seguir, tanto dentro como fuera de la consulta, para acelerar tu recuperación y mejorar tu bienestar.
-  - description: Nos especializamos en el tratamiento de todo tipo de patologías. Sea cual sea tu problema, estamos aquí para ayudarte a superarlo.
-    title: Tratamiento Integral
+  - title: Tratamiento Integral
     icon: book-open-cover
+    description: Nos especializamos en el tratamiento de todo tipo de patologías. Sea cual sea tu problema, estamos aquí para ayudarte a superarlo.
